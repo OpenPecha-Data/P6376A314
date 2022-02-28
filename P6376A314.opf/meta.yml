@@ -1,0 +1,173 @@
+id: P6376A314
+initial_creation_type: input
+source_metadata:
+  title: Nyingma Mönlam Series
+  language: pt
+  description: 'The following texts are recited during the annual Nyingma Mönlam prayer
+    festival in Bodhgaya:'
+  volume:
+    d32c11a0d706452bb4d18f5f1578bb31:
+      title: Verses of the Eight Noble Auspicious Ones
+      parent: Eight Auspicious Ones
+    27315a229e2b4581be639caa10acbd78:
+      title: The Ritual of the Bodhisattva Vow According to the Tradition of Patrul
+        Rinpoche
+      parent: Bodhisattva Vow
+    18dafa647c984d2f8d99438e868584d8:
+      title: The Bodhisattva’s Confession of Downfalls (Nyingma Version)
+      parent: Confession
+    01bddd01fe904e6bb4affdbb55eab7d6:
+      title: 'Accomplishing the Lama through the Seven-Line Prayer: A Special Teaching
+        from the Lama Sangdü'
+      parent: Seven-Line Prayer
+    edb5d5f8e9f74d359e6b46c548e2437e:
+      title: 'The Garland of Utpala Flowers: A Prayer to the Masters of the Lineage
+        of Zabtik Drolchok'
+      parent: Zabtik Drolchok
+    b71597a8e414482996453cb09a442165:
+      title: 'The Treasury of Blessings: A Practice of Buddha Śākyamuni'
+      parent: Śākyamuni Practice
+    ac07ccd249544f8c8d1aae077eb2e311:
+      title: A Brief Practice for Paying Homage and Making Offerings to the Buddha
+        together with his retinue of Arhats
+      parent: Sixteen Arhats
+    9b2e4ff0965845e49dfa86adfeb949ce:
+      title: The General Visualization for Prayers to Guru Rinpoche
+      parent: Guru Rinpoche Visualization
+    701075f0413046b7888b4417a1a4590a:
+      title: 'Le''u Dünma—Chapter 1: The Prayer to the Three Kāya Guru'
+      parent: Le'u Dünma
+    97f845623f84449b804ce1c79e40cdf3:
+      title: 'Le''u Dünma—Chapter 2: The Prayer Requested by King Tri Songdetsen'
+      parent: Le'u Dünma
+    a4e9bfed3a66462fa0479d5d9f5fbe62:
+      title: 'Le''u Dünma—Chapter 3: The Prayer Requested by Khandro Yeshe Tsogyal'
+      parent: Le'u Dünma
+    0bada6bf3ec84bb1befbc2635cc165ea:
+      title: 'Le''u Dünma—Chapter 4: The Prayer Requested by Namkhe Nyingpo'
+      parent: Le'u Dünma
+    c6ef6e3bd16947de9b4b998a9467cbae:
+      title: 'Le''u Dünma—Chapter 5: The Prayer Requested by Nanam Dorje Dudjom'
+      parent: Le'u Dünma
+    b20cbb31a87b4647a13c835e98f95055:
+      title: 'Le''u Dünma—Chapter 6: The Prayer Requested by Prince Mutri Tsenpo'
+      parent: Le'u Dünma
+    44c756e1e17b4991a3ab4de6966f3990:
+      title: Le'u Dünma—Chapter 7. The Prayer to Guru Rinpoche that Spontaneously
+        Fulfills All Wishes (Sampa Lhundrupma)
+      parent: Le'u Dünma
+    d8aaec9ab87d42bf82e4ad407aeded8c:
+      title: The Prayer Which Removes All Obstacles from the Path (Barché Lamsel)
+      parent: Barché Lamsel
+    0650791b393242869985c8e5ddaafcb3:
+      title: The Prayer in Six Vajra Lines
+      parent: Guru Rinpoche Prayers
+    495db3857a4c441caf594fa13c29aec2:
+      title: The Prayer that Swiftly Fulfils All Wishes (Sampa Nyur Drupma)
+      parent: Guru Rinpoche Prayers
+    fb2065b2d50b497584fda76755060428:
+      title: 'Wisdom''s Bestowal: A Way to Accumulate the Recitation of the Tantra
+        ''Chanting the Names of Mañjuśrī'' (Mañjuśrī Nāma Saṃgīti)'
+      parent: Chanting the Names of Mañjuśrī
+    807322006b43439283e68665856497f5:
+      title: Ārya Mañjuśrī Tantra Garbha
+      parent: Mañjuśrī
+    d146b446a577456c8b184da93a0cb0ae:
+      title: The Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities
+      parent: Mañjuśrī
+    da6311455f3247e6ad373625aaa9d255:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      parent: Heart Sūtra
+    e0e57dd440b14c7ebfe319c319c59544:
+      title: The Means for Accomplishment called the Blazing Wheel
+      parent: Blazing Wheel
+    69dab13664c942d792cafc2243c54298:
+      title: 'The Blazing Tower: A Daily Practice of Uṣṇīṣa-Sitātapatrā'
+      parent: Sitātapatrā
+    1349bb06b15d4fb5adc2e86f15919267:
+      title: A Daily 'Hand-Clapping' Practice of Siṃhamukhā
+      parent: Siṃhamukhā
+    7ab63bcc0eb44102980d8bd2225a443e:
+      title: The Dhāraṇī of Amitāyus
+      parent: Dhāraṇī of Amitāyus
+    01154d781b46450d833f454a01a4c84f:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      parent: Zangchö Mönlam
+    8750fe5b01664bf1b8bff25560fdcec1:
+      title: Maitreya's Aspiration
+      parent: Maitreya's Aspiration
+    f712476cb3494434bc724e207ef1a3b8:
+      title: Aspiration to Generate Bodhicitta, Utterly Pure and Supreme
+      parent: Aspiration to Generate Bodhicitta
+    9f5304deaccd42b9867b417604301647:
+      title: The Powerful Prayer of Aspiration from the Tantra of the Great Perfection
+        that Reveals the All-Penetrating Wisdom Mind of Samantabhadra (Kunzang Mönlam)
+      parent: Kunzang Mönlam
+    18f5ab76d4584d6494b4f75fb7fe1c8e:
+      title: Brief Sukhāvatī Aspiration
+      parent: Amitābha Mönlam
+    96bf5d938a564002a91b342c7b9972d8:
+      title: Dedication from Vajravārāhī Cycle of Namchö revealed by Mingyur Dorje
+      parent: Amitābha Mönlam
+    cb194a3c5a1c456fbdb6487f7a44885f:
+      title: The Aspiration of the Vajradhātu Maṇḍala
+      parent: Aspiration of Vajradhātu Maṇḍala
+    51e1581bdee64b68ae45494f7a7d432c:
+      title: Yeshe Tsogyal's Prayer
+      parent: Yeshe Tsogyal’s Prayer
+    b906c13fed914ba88c04131c295772c9:
+      title: Prayer for Dispelling Famine
+      parent: Thangtong Gyalpo Prayers
+    207590a38fa643bcbc5b574f8b698a81:
+      title: 'The Verses that Saved Sakya from Sickness: A Prayer for Pacifying the
+        Fear of Disease'
+      parent: Thangtong Gyalpo Prayers
+    d672cc882c984865bc58d86581494b44:
+      title: 'The Sage''s Powerful Words of Truth: A Prayer for the Spread of the
+        Omniscient Buddha''s Teachings'
+      parent: Sage's Powerful Words of Truth
+    ceb6265f52ce45b2bb07c88795e977bb:
+      title: 'The Rishi''s Maledictory Incantation: An Invocation of Wisdom Mind and
+        Sacred Pledges for Reversing the Disturbances and Agitations of Dark Times
+        In the Form of an Aspiration Prayer'
+      parent: Rishi's Maledictory Incantation
+    733e97bb097b440190bd3e231be51e13:
+      title: 'The Adamantine Magical Wheel: Invoking the Profound Pledge of Padmākara,
+        the Glorious Victor, to Avert the Final War'
+      parent: Adamantine Magical Wheel
+    8ee0801558224208b91c317318d78856:
+      title: 'The Resounding Drum of Truth: A Prayer and Aspiration'
+      parent: Resounding Drum of Truth
+    6e827923a7334a95be9819f887e7c30b:
+      title: The Prayer of the Words of Truth
+      parent: Words of Truth
+    60cc857999324fd3b9f357d1b42f72e5:
+      title: The Prayer of the Ground, Path & Fruition – From the Heart-Essence of
+        the Vast Expanse
+      parent: Ground, Path & Fruition Prayer
+    f2a06810a06a4b01b3b6f3c0205a7b25:
+      title: The Secret Vajra Knot
+      parent: Secret Vajra Knot
+    d00f7b4528ae42cb9fe6706ea28a13ff:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      parent: Long Life Prayers
+    f3723c51316e4682b3cab37943dc053e:
+      title: 'The Music of Immortality: A Prayer for the Long Life of His Holiness
+        the Dalai Lama'
+      parent: Long Life Prayers
+    378a8cc8e9d64c7fa5ca300ce6e2542b:
+      title: General Long-Life Prayer
+      parent: Long Life Prayers
+    2c78b21f2f5745fe830c02bf3edea142:
+      title: 'The Melodious Song of Immortality: A Prayer for Long Life'
+      parent: Long Life Prayers
+    0b53929b038a47af8d7e899ebdcefc9b:
+      title: 'Words to Delight the Sovereigns of the Dharma: A Prayer of Aspiration
+        for the Flourishing and Spread of the Ancient Translation Tradition'
+      parent: Prayer for Spread of Nyingma Tradition
+    03c60ad6153f4efc88d8803c13f99069:
+      title: 'Final Words: The Essential Advice'
+      parent: Final Words
+created_at: '2022-03-01T04:58:17.000388'
+last_modified_at: '2022-03-01T04:58:17.000390'
